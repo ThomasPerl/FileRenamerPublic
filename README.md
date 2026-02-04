@@ -2,6 +2,10 @@
 
 A small, offline desktop tool to safely rename files using clear, rule-based patterns.
 
+## How to get it?
+Download the latest release from Gumroad:
+[https://thomasperl.gumroad.com/l/xpzlds]
+
 ## Features
 - Rule-based renaming by file type
 - Live preview before applying changes
