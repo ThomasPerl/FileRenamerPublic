@@ -39,7 +39,7 @@ The author is not responsible for unintended file changes.
 ## How it works
 ### 1. Select folder
 
-![Main UI](Screenshots/MainUi.png)
+![MainUI](Screenshots/MainUi.png)
 
 ### 2. Define rules for renaming based on file types.
 
